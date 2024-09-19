@@ -937,3 +937,11 @@ ggplot(lab3data, aes(x = Gender, y = SWL)) + geom_violin(aes(fill=Gender)) + sca
 ![](Lab3_files/figure-gfm/unnamed-chunk-8-2.png)<!-- -->
 
 # Q2: What you can tell from looking at a violin plot? What you cannot tell? What inferences you can make based on the two violin plots?
+
+We can see the density for the amount of participants at each indicator
+of life satisfaction or Self esteem. in general, both males and females
+self esteem has a higher density in 3. Both males and females life
+satisfaction has a higher density at 20. However, we cannot see the
+exact amount of participants at each indicator. However, we can infer
+the density differences between the two genders at each unit of life
+satisfaction or self esteem.
